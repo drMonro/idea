@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'nextjs-stroyrem'" />
-    <option name="defaultScopeName" value="Project 'nextjs-stroyrem'" />
-    <option name="SEARCH_SCOPE" value="Project 'nextjs-stroyrem'" />
+    <option name="customScope" value="File '…\client\public\styles\index.css'" />
+    <option name="defaultScopeName" value="File '…\client\public\styles\index.css'" />
+    <option name="SEARCH_SCOPE" value="File '…\client\public\styles\index.css'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
