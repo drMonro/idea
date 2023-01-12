@@ -10,6 +10,7 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -26,7 +27,7 @@
         <option value="JAVA.java.implicit.types" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
+    <option name="lastViewedProviderKeyId" value=".references" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="TodoConfiguration">
