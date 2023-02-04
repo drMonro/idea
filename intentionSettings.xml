@@ -1,6 +1,5 @@
 <application>
   <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Convert to function expression" />
     <ignoreAction name="Other/Put elements on multiple lines" />
   </component>
 </application>
