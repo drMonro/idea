@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\server\seed.ts'" />
-    <option name="defaultScopeName" value="File '…\server\seed.ts'" />
-    <option name="SEARCH_SCOPE" value="File '…\server\seed.ts'" />
+    <option name="customScope" value="File '…\client\seed.ts'" />
+    <option name="defaultScopeName" value="File '…\client\seed.ts'" />
+    <option name="SEARCH_SCOPE" value="File '…\client\seed.ts'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
