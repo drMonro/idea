@@ -5,11 +5,13 @@
       <w>extrabold</w>
       <w>fira</w>
       <w>htmlacademy</w>
+      <w>nextauth</w>
       <w>refetch</w>
       <w>semibold</w>
       <w>sider</w>
       <w>superjson</w>
       <w>trpc</w>
+      <w>vercel</w>
     </words>
   </component>
 </application>
