@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="nest-cli.json" type="JSON" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="tpx" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
