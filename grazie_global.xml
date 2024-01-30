@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="offersCount" />
+            <option value="offersData" />
           </set>
         </option>
       </SuppressingContext>
