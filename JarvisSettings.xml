@@ -1,0 +1,22 @@
+<application>
+  <component name="com.sberworks.sberai.service.settings.AppSettingsState">
+    <option name="authUrl" value="https://gigacode.ru/oauth2/token" />
+    <option name="authV2Url" value="https://gigacode.ru/api/v1/account/auth/plugin" />
+    <option name="chatUrl" value="null" />
+    <option name="codeReviewUrl" value="null" />
+    <option name="inlineColorRGB" value="-7657850" />
+    <option name="landingUrl" value="https://gigacode.ru" />
+    <option name="logsUrl" value="https://gigacode.ru/logs" />
+    <option name="maxSuggestions" value="3" />
+    <option name="maxTokens" value="400" />
+    <option name="maxTokensFromOpenedFiles" value="200" />
+    <option name="mlUrl" value="https://gigacode.ru/cmplstr" />
+    <option name="sendFileName" value="true" />
+    <option name="signInUrl" value="https://console.cloud.ru/projects/x/spa/gigacode" />
+    <option name="testcaseUrl" value="https://gigacode.ru/testgen" />
+    <option name="timeout" value="3000" />
+    <option name="unifiedUrl" value="https://gigacode.ru/plugin.json" />
+    <option name="vulnerabilityDetectionUrl" value="null" />
+    <option name="wholeLineCompletion" value="true" />
+  </component>
+</application>
