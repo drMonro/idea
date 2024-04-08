@@ -6,6 +6,8 @@
           <set>
             <option value="offersCount" />
             <option value="offersData" />
+            <option value="categoriesHierarchy" />
+            <option value="heirsCategories" />
           </set>
         </option>
       </SuppressingContext>
