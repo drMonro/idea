@@ -2,8 +2,9 @@
   <component name="com.sberworks.sberai.service.settings.AppSettingsState">
     <option name="authUrl" value="https://gigacode.ru/oauth2/token" />
     <option name="authV2Url" value="https://gigacode.ru/api/v1/account/auth/plugin" />
-    <option name="chatUrl" value="null" />
+    <option name="chatUrl" value="https://gigacode.ru/api/v1/chat/completions" />
     <option name="codeReviewUrl" value="null" />
+    <option name="gitverseSignInUrl" value="https://gitverse.ru/services/gigacode" />
     <option name="inlineColorRGB" value="-7657850" />
     <option name="landingUrl" value="https://gigacode.ru" />
     <option name="logsUrl" value="https://gigacode.ru/logs" />
