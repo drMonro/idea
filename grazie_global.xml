@@ -6,8 +6,11 @@
           <set>
             <option value="offersCount" />
             <option value="offersData" />
-            <option value="categoriesHierarchy" />
             <option value="heirsCategories" />
+            <option value="categoriesHierarchy" />
+            <option value="subsequent|This effect monitors the implementation of 'offersByCategoryNewQuery' and if a current query is for subsequent or for previos page" />
+            <option value="subsequent|This effect monitors the implementation of 'offersByCategoryNewQuery' and if a current query is for subsequent or for previous page" />
+            <option value="subsequent|If the count of pages is more than 1, and the current page index is not last, then starting prefetch subsequent page data" />
           </set>
         </option>
       </SuppressingContext>
