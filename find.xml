@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\client\src\components\Pages\PageIndex\Sections\FeaturesSection\FeaturesSection.tsx'" />
-    <option name="defaultScopeName" value="File '…\client\src\components\Pages\PageIndex\Sections\FeaturesSection\FeaturesSection.tsx'" />
+    <option name="customScope" value="Project 'nextjs-stroyrem'" />
+    <option name="defaultScopeName" value="Project 'nextjs-stroyrem'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\client\src\components\Pages\PageIndex\Sections\FeaturesSection\FeaturesSection.tsx'" />
+    <option name="SEARCH_SCOPE" value="Project 'nextjs-stroyrem'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
