@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\app\img\logo.svg'" />
-    <option name="defaultScopeName" value="File '…\app\img\logo.svg'" />
+    <option name="customScope" value="Project 'lp-stroyrem'" />
+    <option name="defaultScopeName" value="Project 'lp-stroyrem'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\app\img\logo.svg'" />
+    <option name="SEARCH_SCOPE" value="Project 'lp-stroyrem'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
