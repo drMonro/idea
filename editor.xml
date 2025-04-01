@@ -22,7 +22,7 @@
       </set>
     </option>
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+  <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="0" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
@@ -59,10 +59,6 @@
       <set />
     </option>
     <FK_RULES />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />

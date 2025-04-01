@@ -1,3 +1,14 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <option name="scopesOrder">
+    <list>
+      <option value="All Changed Files" />
+      <option value="Open Files" />
+      <option value="Production" />
+      <option value="Project Files" />
+      <option value="Scratches and Consoles" />
+      <option value="Tests" />
+    </list>
+  </option>
+  <inspection_tool class="JSUnusedGlobalSymbols" enabled="true" level="WEAK WARNING" enabled_by_default="true" editorAttributes="INFO_ATTRIBUTES" />
 </profile>
