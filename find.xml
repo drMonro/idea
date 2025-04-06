@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '…\gulpfile.mjs'" />
-    <option name="defaultScopeName" value="File '…\gulpfile.mjs'" />
+    <option name="customScope" value="Project 'lp-stroyrem'" />
+    <option name="defaultScopeName" value="Project 'lp-stroyrem'" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…\gulpfile.mjs'" />
+    <option name="SEARCH_SCOPE" value="Project 'lp-stroyrem'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
