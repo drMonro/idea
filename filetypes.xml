@@ -3,12 +3,12 @@
     <extensionMap>
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="tpx" type="PLAIN_TEXT" />
-      <mapping ext="njk" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="njk" approved="true" type="Twig" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
