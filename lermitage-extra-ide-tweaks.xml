@@ -1,0 +1,21 @@
+<application>
+  <component name="ExtraIdeTweaksSettings">
+    <option name="enableAllFeatures" value="true" />
+    <option name="enableIDEA341174Workaround" value="true" />
+    <option name="ideaA341174WorkaroundDelayInSec" value="4" />
+    <option name="enableToolwindowsOverrides" value="true" />
+    <option name="toolwindowsOverridesDelayInSec" value="4" />
+    <option name="toolwindowsOverrides">
+      <list />
+    </option>
+    <option name="enableScheduleGC" value="false" />
+    <option name="enableScheduleGCOtherVMs" value="false" />
+    <option name="enableOpenEditors" value="true" />
+    <option name="enablePreventFileOpen" value="false" />
+    <option name="enableBetterNewUIFolderIcons" value="false" />
+    <option name="enableWorkFolders" value="true" />
+    <option name="enableWorkFoldersShowChildrenLvl1" value="false" />
+    <option name="enableExcludedFolders" value="false" />
+    <option name="enableBetterTabNames" value="true" />
+  </component>
+</application>
