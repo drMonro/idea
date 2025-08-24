@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping ext="tpx" type="PLAIN_TEXT" />
-      <mapping ext="njk" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Env File" />
@@ -14,6 +13,7 @@
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern="nest-cli.json" approved="true" type="JSON" />
+      <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
 </application>
